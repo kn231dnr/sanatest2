@@ -10,21 +10,19 @@
 4. вивантажено усі коміти з локального у віддалений репозиторій
 ### Використані команди Git
 #### У практичній роботі №1 було використано такі команди Git:
- [X] git init
- [X] git status
- [X] git add
- [X] git commit
- [X] git remote add
- [X] git push
- [X] git pull
- [] git branch
+ [x] git init
+ [x] git status
+ [x] git add
+ [x] git commit
+ [x] git remote add
+ [x] git push
+ [x] git pull
+ [ ] git branch
 ## Практична робота №2
 ### Основні завдання
 #### У практичній роботі №2 потрібно:
-```
-створити файл README.md
-створити файл .gitignore
-```
+  * створити файл README.md
+  * створити файл .gitignore
 ##### Створення файла README.md
 ###### У файлі README.md повинна бути така інформація:
  * заголовки
