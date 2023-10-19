@@ -1,15 +1,13 @@
 # Sana Commerce Software Development Courses `24
-!(https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
+![text](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 
 ## Практична робота №1
 ### Основні завдання
 #### У практичній роботі №1 було:
-```
 1. створено локальний репозиторій
 1. створено віддалений репозиторій на GitHub
 1. зроблено коміти у локальному репозиторії
 1. вивантажено усі коміти з локального у віддалений репозиторій
-```
 ### Використані команди Git
 #### У практичній роботі №1 було використано такі команди Git:
  [X] git init
