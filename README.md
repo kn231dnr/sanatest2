@@ -11,7 +11,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png
 вивантажено усі коміти з локального у віддалений репозиторій
 ### Використані команди Git
 #### У практичній роботі №1 було використано такі команди Git:
-
+'''
  git init
  git status
  git add
@@ -20,6 +20,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png
  git push
  git pull
  git branch
+'''
 ## Практична робота №2
 ### Основні завдання
 #### У практичній роботі №2 потрібно:
