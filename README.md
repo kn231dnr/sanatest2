@@ -13,14 +13,14 @@
 ### Використані команди Git
 #### У практичній роботі №1 було використано такі команди Git:
 ```
- git init
- git status
- git add
- git commit
- git remote add
- git push
- git pull
- git branch
+ [X] git init
+ [X] git status
+ [X] git add
+ [X] git commit
+ [X] git remote add
+ [X] git push
+ [X] git pull
+ [] git branch
 ```
 ## Практична робота №2
 ### Основні завдання
@@ -28,8 +28,8 @@
 ```
 створити файл README.md
 створити файл .gitignore
-Створення файла README.md
 ```
+Створення файла README.md
 #### У файлі README.md повинна бути така інформація:
 ```
 заголовки
