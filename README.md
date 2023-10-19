@@ -10,14 +10,14 @@
 4. вивантажено усі коміти з локального у віддалений репозиторій
 ### Використані команди Git
 #### У практичній роботі №1 було використано такі команди Git:
- [x] git init
- [x] git status
- [x] git add
- [x] git commit
- [x] git remote add
- [x] git push
- [x] git pull
- [ ] git branch
+  - [x] git init
+  - [x] git status
+  - [x] git add
+  - [x] git commit
+  - [x] git remote add
+  - [x] git push
+  - [x] git pull
+  - [ ] git branch
 ## Практична робота №2
 ### Основні завдання
 #### У практичній роботі №2 потрібно:
@@ -33,6 +33,6 @@
  * гіперпосилання
  * картинки
 
-Документація з використання Git розміщена за посиланням.
+Документація з використання Git розміщена за [посиланням](https://docs.google.com/document/d/1agdvcLqd2w2rWS0-fCqwsevO-7QN2xLpZPq7Haylq4U/edit).
 
 Виконав: Дмитревич Назарій
